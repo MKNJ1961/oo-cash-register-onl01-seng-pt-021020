@@ -25,9 +25,9 @@ class CashRegister
    @last_item = price * quantity
   end
 #
-#   def items
-#     @items
-#   end
+  def items
+    @items
+  end
 #
 #   def void_last_transaction
 #      @items.delete_at(-1)
