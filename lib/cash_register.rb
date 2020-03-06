@@ -24,11 +24,11 @@ class CashRegister
 #    end
 #    @last_item = price * quantity
 #   end
-# 
+#
 #   def items
 #     @items
 #   end
-# 
+#
 #   def void_last_transaction
 #      @items.delete_at(-1)
 #     self.total = self.total - @last_item
